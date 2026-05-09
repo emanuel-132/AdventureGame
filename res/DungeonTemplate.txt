@@ -1,32 +1,25 @@
-rows
-cols
-exitRow
-exitCol
-lampRow
-lampCol
-keyRow
-keyCol
-chestRow
-chestCol
-grueRow
-grueCol
-######################
-# #   ################
-# # ##################
-# # ##################
-# # ##################
-# # ##################
-# # ##################
-#           ##########
-######################
-######################
-######################
-######################
-######################
-1|Room description
-0|Room description
-0|Room description
-1|Room description
-0|Room description
-0|Room description
-1|Room description
+5
+5
+1
+1
+1
+3
+3
+1
+3
+3
+1
+3
+#####
+#   #
+# # #
+#   #
+#####
+1|Estás en la salida. A lo lejos escuchas un goteo.
+1|Un pasillo iluminado por antorchas.
+1|Encuentras un pedestal con una lámpara.
+0|El pasillo oeste. Las paredes están húmedas.
+0|El pasillo este. Huele a humedad.
+0|Un cuarto pequeño. Ves un gancho donde cuelga una llave.
+0|Un túnel estrecho en la parte sur.
+0|La bóveda del tesoro. El aire aquí es pesado.
