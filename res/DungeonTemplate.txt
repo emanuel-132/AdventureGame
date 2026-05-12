@@ -9,17 +9,17 @@
 3
 3
 1
-3
+2
 #####
 #   #
 # # #
 #   #
 #####
-1|Estás en la salida. A lo lejos escuchas un goteo.
-1|Un pasillo iluminado por antorchas.
-1|Encuentras un pedestal con una lámpara.
-0|El pasillo oeste. Las paredes están húmedas.
-0|El pasillo este. Huele a humedad.
-0|Un cuarto pequeño. Ves un gancho donde cuelga una llave.
-0|Un túnel estrecho en la parte sur.
-0|La bóveda del tesoro. El aire aquí es pesado.
+1|Estás en la salida. El aire gélido se cuela por una grieta en el techo.
+1|Un pasillo estrecho iluminado por antorchas que chisporrotean.
+1|Encuentras un pedestal de piedra con una lámpara de aceite vieja.
+0|El ala oeste del calabozo. La oscuridad es tan densa que se puede sentir.
+0|Un corredor lateral donde el eco de tus pasos rebota en las paredes.
+0|Un cuarto pequeño y húmedo. Una llave de plata cuelga de un gancho oxidado.
+0|Un túnel bajo y estrecho que se interna hacia la parte sur.
+0|La bóveda del tesoro. Frente a ti, un cofre antiguo guarda un brillo dorado.
